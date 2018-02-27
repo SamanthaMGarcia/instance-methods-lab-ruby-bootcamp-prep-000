@@ -1,4 +1,5 @@
 class Dog
+  def
 end
 
 adele_goldberg = Person.new
